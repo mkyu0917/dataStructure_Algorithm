@@ -20,6 +20,7 @@ public class findMedian {
             median = b;
         }
 
+
         System.out.println("중앙값은 " + median + " 입니다.");
 
     }
